@@ -1,0 +1,14 @@
+{
+  "name": "system-info-app",
+  "version": "1.0.0",
+  "description": "A simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "A7",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.2.1"
+  }
+}
